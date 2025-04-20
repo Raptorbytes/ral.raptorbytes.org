@@ -4,7 +4,7 @@ A growing suite of fast, reliable, and minimal user programs written entirely in
 💡 About
 
 RAL (Rust Application Library) is a collection of open-source applications built to cover daily tasks, with a focus on performance, simplicity, and clean design. Whether you need a terminal-friendly to-do list or a desktop text editor, RAL aims to provide lightweight tools that just work.
-🧠 Features
+# 🧠 Features
 
     📝 Text & Code Editors — smooth, distraction-free editing.
 
@@ -22,7 +22,7 @@ All RAL programs are designed to be:
 
     Open-source — built for learning, contribution, and transparency.
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 Clone the repository:
 
@@ -38,7 +38,8 @@ Run:
 ./target/release/ral-app
 
 (Replace ral-app with the specific app name once multiple are available.)
-🧑‍💻 Contributing
+
+# 🧑‍💻 Contributing
 
 Contributions are always welcome! If you'd like to submit a feature, bug fix, or enhancement:
 
@@ -50,7 +51,7 @@ Contributions are always welcome! If you'd like to submit a feature, bug fix, or
 
     Follow Rust best practices and format your code with cargo fmt!
 
-📫 Contact
+# 📫 Contact
 
 If you have questions, ideas, or want to collaborate:
 
@@ -58,7 +59,7 @@ If you have questions, ideas, or want to collaborate:
 
     ✉️ paradoxzss07@raptorbytes.org
 
-⚡ License
+# ⚡ License
 
 This project is licensed under the MIT License — see LICENSE for details.
 🌐 More
