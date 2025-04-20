@@ -26,7 +26,7 @@ All RAL programs are designed to be:
 
 Clone the repository:
 
-git clone https://github.com/raptorbytes-org/ral.git
+git clone https://github.com/Raptorbytes/RALv1.git
 cd ral
 
 Build:
