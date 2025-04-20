@@ -1,4 +1,4 @@
-🦀 Rust Application Library (RAL)
+# 🦀 Rust Application Library (RAL)
 
 A growing suite of fast, reliable, and minimal user programs written entirely in Rust — designed to make everyday computing easier.
 💡 About
